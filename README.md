@@ -3,7 +3,7 @@ Winecluster
 
 Code from an assignment for Pradeep Ravikumar's Intro to Business Data Analytics class in UT Austin's MS in Business Analytics program.
 
-A k-means clustering of the wine data set from UC Irvine's Machine Learning Repository. The dataset is 13 chemical attributes of wines taken from three different grape cultivars. The dataset is available at http://http://archive.ics.uci.edu/ml/datasets/Wine .
+A k-means clustering of the wine data set from UC Irvine's Machine Learning Repository. The dataset is 13 chemical attributes of wines taken from three different grape cultivars. The dataset is available at http://archive.ics.uci.edu/ml/datasets/Wine .
 
 winecluster.R is the k-means code
 
