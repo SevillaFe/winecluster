@@ -11,8 +11,8 @@ traintestsplit.R is for splitting the complete dataset into a training set and t
 
 evaluation.R applies a clustering from a training set to a test set, and generates relevant plots
 
-analysis.R generates relevant plots demonstrating the accuracy of a clustering
+analysis.R generates relevant plots showing the accuracy of a clustering
 
-pca.R uses principal component analysis to generate a 2-d visualization of the clustering
+pca.R uses principal component analysis to generate a 2-d visualization of a clustering
 
 See http://www.michaelwsherman.com/projects/winecluster/index.html for more information, a full analysis of the dataset, and examples of the generated plots.
