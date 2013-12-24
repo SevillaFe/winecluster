@@ -9,9 +9,9 @@ winecluster.R is the k-means code
 
 traintestsplit.R is for splitting the complete dataset into a training set and test set
 
-evaluation.R applies a clustering from a training set to a test set, and generates relevant plots
+evaluation.R measures a training set clustering's predictive abilites by running test set samples through it, and generates associated plots
 
-analysis.R generates relevant plots showing the accuracy of a clustering
+analysis.R generates  plots showing the accuracy of a clustering
 
 pca.R uses principal component analysis to generate a 2-d visualization of a clustering
 
