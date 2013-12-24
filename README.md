@@ -7,7 +7,7 @@ A k-means clustering of the wine data set from UC Irvine's Machine Learning Repo
 
 winecluster.R is the k-means code
 
-traintestsplit.R is for splitting the complete dataset into a training and test set
+traintestsplit.R is for splitting the complete dataset into a training set and test set
 
 evaluation.R applies a clustering from a training set to a test set, and generates relevant plots
 
